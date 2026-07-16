@@ -1,8 +1,10 @@
-# Bloca Workspace
+# BLOCA
+An IoT-monitored plastic-to-brick compactor with ML-based grading — turning
+plastic waste into construction-ready bricks, with sensors and machine
+learning tracking the compaction and grading process end-to-end.
 
-This repository is a workspace for the Bloca project family. It contains the shared sync script at the root and several product-specific repositories in sibling folders.
+## Repos
 
-## What’s here
 - [`bloca-admin/`](https://github.com/integratech-org/bloca-admin) - admin dashboard
 - [`bloca-api/`](https://github.com/integratech-org/bloca-api) - backend API
 - [`bloca-firmware/`](https://github.com/integratech-org/bloca-firmware) - firmware sources
@@ -10,16 +12,8 @@ This repository is a workspace for the Bloca project family. It contains the sha
 - [`bloca-ml/`](https://github.com/integratech-org/bloca-ml) - machine learning components
 - [`bloca-mobile/`](https://github.com/integratech-org/bloca-mobile) - mobile app
 
-## Syncing repositories
+See [`SETUP.md`](./SETUP.md) for setup instructions.
 
-Use the root script to clone missing repositories or pull updates for existing ones:
+## Team
 
-```bash
-./git-sync.sh
-```
-
-The root `Makefile` provides the same action:
-
-```bash
-make sync
-```
+See [`CONTRIBUTORS.md`](./CONTRIBUTORS.md).
