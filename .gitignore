@@ -1,7 +1,9 @@
 bloca-admin/
 bloca-api/
+bloca-edge/
 bloca-firmware/
 bloca-landing/
 bloca-ml/
 bloca-mobile/
 
+.env

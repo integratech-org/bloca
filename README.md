@@ -7,6 +7,7 @@ learning tracking the compaction and grading process end-to-end.
 
 - [`bloca-admin/`](https://github.com/integratech-org/bloca-admin) - admin dashboard
 - [`bloca-api/`](https://github.com/integratech-org/bloca-api) - backend API
+- [`bloca-edge/`](https://github.com/integratech-org/bloca-edge) - edge app on the Raspberry Pi 5 that coordinates the ESP32 sensors, ML service, and main API
 - [`bloca-firmware/`](https://github.com/integratech-org/bloca-firmware) - firmware sources
 - [`bloca-landing/`](https://github.com/integratech-org/bloca-landing) - marketing site
 - [`bloca-ml/`](https://github.com/integratech-org/bloca-ml) - machine learning components

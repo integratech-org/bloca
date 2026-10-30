@@ -4,6 +4,7 @@
 REPOS=(
   "https://github.com/integratech-org/bloca-admin.git"
   "https://github.com/integratech-org/bloca-api.git"
+  "https://github.com/integratech-org/bloca-edge.git"
   "https://github.com/integratech-org/bloca-firmware.git"
   "https://github.com/integratech-org/bloca-landing.git"
   "https://github.com/integratech-org/bloca-ml.git"
